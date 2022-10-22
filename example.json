@@ -18,7 +18,7 @@
                 "renderType":2
             }
         },
-        "children" : {
+        "slaves" : {
             "e": {},
             "xa": {},
             "m": {},
