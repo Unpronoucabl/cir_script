@@ -1,0 +1,29 @@
+{
+    "group": {
+        "text": "example",
+        "pos": {
+            "id": "origin",
+            "ang":null,
+            "dist":0 
+        },
+        "shapes": {
+            "inner_cir": {
+                "shape": "circle",
+                "radius": 4,
+                "renderType":1
+            },
+            "outer_cir": {
+                "shape": "circle",
+                "radius": 5,
+                "renderType":2
+            }
+        },
+        "children" : {
+            "e": {},
+            "xa": {},
+            "m": {},
+            "p": {},
+            "le": {}
+        }
+    }
+}
